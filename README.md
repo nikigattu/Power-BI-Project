@@ -161,6 +161,7 @@ This dashboard can be further enhanced with the following features:
 👨‍💻 Author
 
 **Nikil Gattu**
+
 -Github: 
 https://github.com/nikigattu
 
