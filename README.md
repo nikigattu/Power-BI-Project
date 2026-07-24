@@ -144,3 +144,17 @@ Some important DAX measures used in this project include:
 - Visualized sales performance across different countries.
 
 ---
+👨‍💻 Author
+
+**Nikil Gattu**
+
+- 💼 Aspiring Data Analyst
+- 📊 Power BI Developer
+- 🐍 Python Developer
+- 📈 SQL & Excel Enthusiast
+
+---
+
+## ⭐ If you like this project
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
