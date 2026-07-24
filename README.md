@@ -133,31 +133,6 @@ Some important DAX measures used in this project include:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Dashboard
-
-![Dashboard](Images/Dashboard.png)
-
----
-
-### Customer Dashboard
-
-![Customer](Images/Customer.png)
-
----
-
-### Geographic Dashboard
-
-![Map](Images/Map.png)
-
----
-
-### Performance Dashboard
-
-![Performance](Images/Performance.png)
-
----
 
 ## 📈 Business Insights
 
