@@ -159,10 +159,12 @@ This dashboard can be further enhanced with the following features:
 ---
 
 👨‍💻 Author
+
 **Nikil Gattu**
-Github: 
+-Github: 
 https://github.com/nikigattu
-LinkedIn:
+
+-LinkedIn:
 www.linkedin.com/in/
 nikilgattu06
 
