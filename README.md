@@ -144,17 +144,31 @@ Some important DAX measures used in this project include:
 - Visualized sales performance across different countries.
 
 ---
-👨‍💻 Author
+🚀 Future Enhancements
 
-**Nikil Gattu**
+This dashboard can be further enhanced with the following features:
 
-- 💼 Aspiring Data Analyst
-- 📊 Power BI Developer
-- 🐍 Python Developer
-- 📈 SQL & Excel Enthusiast
+- 🔹 Integrate real-time data using SQL Server or cloud databases.
+- 🔹 Implement Row-Level Security (RLS) for secure, role-based access.
+- 🔹 Add sales forecasting using Power BI's forecasting capabilities or Python integration.
+- 🔹 Develop advanced KPI dashboards with dynamic alerts and conditional formatting.
+- 🔹 Include customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+- 🔹 Enhance geographic analysis with drill-down maps at the state and city levels.
+- 🔹 Build executive summary pages with AI-powered insights and Key Influencers visuals.
 
 ---
 
-## ⭐ If you like this project
+👨‍💻 Author
+**Nikil Gattu**
+Github: 
+https://github.com/nikigattu
+LinkedIn:
+www.linkedin.com/in/
+nikilgattu06
 
+
+
+---
+
+ ⭐ 
 If you found this project useful, please consider giving it a ⭐ on GitHub!
